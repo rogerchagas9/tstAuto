@@ -1,0 +1,2 @@
+# tstAuto
+System Regression Test 
